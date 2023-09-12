@@ -48,22 +48,4 @@ class Chatroom {
     }
   }
 };
-// const chatroom = new Chatroom('general','shaun');
-// // console.log(chatroom)
-// // chatroom.addChat('hello evryone')
-// // .then(() => console.log('chat add'))
-// // .catch(err => console.log(err));
-
-// chatroom.getChats((data) => {
-//   console.log(data);
-// })
-// setTimeout(() => {
-// chatroom.updateRoom('gaming');
-// chatroom.updateName('yoshi');
-// chatroom.getChats((data) => {
-//   console.log(data);
-// });
-// chatroom.addChat('hello');
-
-// }, 3000)
 
