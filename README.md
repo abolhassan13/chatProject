@@ -1,2 +1,4 @@
 # chatProject
- This is simple chatroom with JavaScript
+ *This is simple chatroom with JavaScript*
+ 
+ 
